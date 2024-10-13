@@ -55,7 +55,7 @@
     height: 50px;
   }
   
-  @media screen and (min-width: 550px) {
+  @media screen and (min-width: 650px) {
     body {
         display: grid;
         grid-template-columns: repeat(3,1fr);
